@@ -1,5 +1,5 @@
 # katalekto
-Software para mejorar la fluided lectora en euskera y castellano.
+Software para mejorar la fluidez lectora en euskera y castellano.
 Programado en Genie/Vala
 
 Se trata de un programa que muestra textos de una forma controlada.
