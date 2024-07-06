@@ -1,0 +1,12 @@
+Source: katalekto
+Section: Education
+Priority: extra
+Maintainer: Gontzal <txasatonga@yahoo.es>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+Homepage: <www.katamotzlectura.blogspot.com>
+
+Package: katalekto
+Architecture: amd64
+Depends: libgtk-3-0, libgee-0.8-2, libcairo2
+Description: [Español] Un programa de taquilectura para mejorar la fluidez lectora. [Euskara] Takilektura programa bat irakurtze jarioa hobetzeko.

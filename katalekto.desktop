@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Katalekto
+Name[eu]=katalekto
+Name[es]=katalekto
+Icon=/usr/share/katalekto/katamotz.png
+Comment[eu]=Takilektura programa bat irakurtze jarioa hobetzeko.
+Comment[es]=Programa de taquilectura para mejorar la fluidez lectora.
+Exec=/usr/bin/katalekto
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Education;
+StartupNotify=False
